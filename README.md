@@ -1,11 +1,8 @@
-### seodongwon
+### Hi there 👋, 제 이름은 서동원입니다.
+#### .Net Web Developer
+안녕하세요. 웹 개발자 입니다.
 
-***
-
-- 🔭 와이드모바일 재직중
-- 🌱 .Net 웹개발자
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor"/>
+Skills: MSSQL / ANGULAR JS / JS / HTML / CSS
 
 <!--
 **dongphas/dongphas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
