@@ -3,9 +3,9 @@
 ***
 
 - 🔭 와이드모바일 재직중
-- 🌱 .Net Web development
+- 🌱 .Net 웹개발자
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor
 
 <!--
 **dongphas/dongphas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
