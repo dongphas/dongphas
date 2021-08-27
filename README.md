@@ -1,4 +1,11 @@
-### Hi there 👋
+### seodongwon
+
+***
+
+- 🔭 와이드모바일 재직중
+- 🌱 .Net Web development
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **dongphas/dongphas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
